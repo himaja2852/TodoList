@@ -52,11 +52,12 @@ body {
 /* Custom styles for buttons */
 /* App.css */
 
+
+
+/* Your existing styles */
+
 body {
   background: linear-gradient(to bottom, #114357, #f29492);
- 
-
-
   display: flex;
   align-items: center;
   justify-content: center;
@@ -89,5 +90,24 @@ button[type="submit"] {
 }
 
 /* Add more styles as needed */
+
+/* Media query for screens smaller than 600px */
+@media screen and (max-width: 600px) {
+  body {
+    background: lightblue; /* Change background color for smaller screens */
+  }
+
+  /* Additional styles for smaller screens */
+  .App {
+    text-align: left; /* Example: Change text alignment for smaller screens */
+  }
+
+  h1 {
+    font-size: 18px; /* Example: Adjust font size for smaller screens */
+  }
+
+  /* Add more styles for smaller screens as needed */
+}
+
 
 
