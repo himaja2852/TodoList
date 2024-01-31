@@ -94,12 +94,12 @@ button[type="submit"] {
 /* Media query for screens smaller than 600px */
 @media screen and (max-width: 600px) {
   body {
-    background: lightblue; /* Change background color for smaller screens */
+    background: linear-gradient(to bottom, #114357, #f29492);
   }
 
   /* Additional styles for smaller screens */
   .App {
-    text-align: left; /* Example: Change text alignment for smaller screens */
+    text-align: center; /* Example: Change text alignment for smaller screens */
   }
 
   h1 {
