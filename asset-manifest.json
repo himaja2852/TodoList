@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/himaja2852/TodoList.git/static/css/main.d50124f2.css",
+    "main.js": "/himaja2852/TodoList.git/static/js/main.1aa1d6b4.js",
+    "static/js/651.61402466.chunk.js": "/himaja2852/TodoList.git/static/js/651.61402466.chunk.js",
+    "index.html": "/himaja2852/TodoList.git/index.html",
+    "main.d50124f2.css.map": "/himaja2852/TodoList.git/static/css/main.d50124f2.css.map",
+    "main.1aa1d6b4.js.map": "/himaja2852/TodoList.git/static/js/main.1aa1d6b4.js.map",
+    "651.61402466.chunk.js.map": "/himaja2852/TodoList.git/static/js/651.61402466.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d50124f2.css",
+    "static/js/main.1aa1d6b4.js"
+  ]
+}
