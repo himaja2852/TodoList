@@ -2,7 +2,8 @@
   "name": "my-bootstrap-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://himaja2852.github.io/React-js-2/",
+  "homepage": "https://github.com/himaja2852/Todo.git",
+
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
